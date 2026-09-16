@@ -1,0 +1,10 @@
+^D:\CUDA\MINIINFER\BUILD\CMAKEFILES\45329C8191A11BC5179FAECE96B40D9C\GENERATE.STAMP.RULE
+setlocal
+"D:\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/cuda/MiniInfer -BD:/cuda/MiniInfer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/cuda/MiniInfer/build/MiniInfer.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

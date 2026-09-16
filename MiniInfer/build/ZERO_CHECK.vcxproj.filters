@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\cuda\MiniInfer\build\CMakeFiles\45329c8191a11bc5179faece96b40d9c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{82C66BD0-1609-33A4-BAAE-4DE52332A5A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
