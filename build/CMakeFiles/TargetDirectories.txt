@@ -1,0 +1,3 @@
+D:/cuda/MiniInfer/build/CMakeFiles/mini_infer.dir
+D:/cuda/MiniInfer/build/CMakeFiles/ALL_BUILD.dir
+D:/cuda/MiniInfer/build/CMakeFiles/ZERO_CHECK.dir
